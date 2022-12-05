@@ -1,6 +1,6 @@
 # MAXImatica
 
-![MAXImatica Logo](./images/logo.png)
+![MAXImatica Logo](./images/logo.jpeg)
 
 Максиматика помогает развивать навыки счета у детей
 
