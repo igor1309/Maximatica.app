@@ -28,6 +28,8 @@
 Графики
 Показывают динамику результатов тренировок. Можно выбрать период, отображаемый на графике.
 
+<br/>
+
 [![Download on the App Store Badge RU](./images/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.png)]((https://apps.apple.com/ru/app/maximatica/id1485207162?l=en))
 
 iPhone
